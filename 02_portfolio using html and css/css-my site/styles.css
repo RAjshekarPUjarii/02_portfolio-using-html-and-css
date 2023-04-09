@@ -1,0 +1,149 @@
+body{
+   background-color: #E4F9F5;
+   font-family: 'Merriweather', serif;
+   margin: 0;
+   text-align: center;
+
+   /* color: #0f4c75; */
+
+}
+/* 1em==16px== */
+/* #pro{
+   word-spacing:12px;
+} */
+h1{
+   color: #66BFBF;
+   font-size: 5.999rem;
+   font-family: 'Sacramento', cursive;
+   line-height:1;
+   margin: 2.6rem auto 0 auto;
+}
+h1:hover{
+   color: green;
+}
+h2{
+   color: #66BFBF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   font-weight: normal;
+}
+h2:hover{
+   color: green;
+}
+h3
+{
+   color: #66BFBF;
+   font-size: 1.9rem;
+   font-family: 'Montserrat', sans-serif;
+}
+h3:hover{
+   color: green;
+}
+.para{
+   color: #0f4c75;
+}
+p{
+   line-height: 2;
+}
+/* .para{
+      font-weight: normal;
+      color: #0f4c75;
+} */
+hr{
+   border: none;
+   border-top: dotted;
+   border-color: lightgrey;
+   border-width : 0.7rem;
+   width:6rem;
+   opacity: 0.6;
+   /* height: 3em; */
+   margin: 100px auto;
+}
+.profile-img{
+   max-width: 20%
+}
+.img1{
+   margin-right: 20px;
+   float: left;
+   border-radius: 100%;
+   width: 40%;
+}
+.img2{
+   margin-left: : 20px;
+   float: right;
+   border-radius: 100%;
+   width: 40%;
+}
+.intro{
+   color: #0f4c75;
+   margin: 50px auto;
+   width: 400px;
+   line-height: 2;
+}
+.top-container{
+   background-color: #E4F9F5;
+   padding-top: 120px;
+}
+.middle-container{
+   margin: 100px 0;
+}
+.bottom-container{
+   background-color: #66BFBF;
+   padding-top:30px;
+}
+a{
+   margin: 20px  20px;
+}
+.top-cloud{
+   position: absolute;
+   top: 40px;
+   right: 240px;
+}
+
+.bottom-cloud{
+   position:absolute;
+   bottom: : 210px;
+   left: 100px;
+}
+.giphy-img{
+   width: 500px;
+}
+.skill-row{
+   width: 50%;
+   text-align: left;
+   margin:  100px auto;
+   line-height: 2;
+}
+ .contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+   color: #0f4c75;
+}
+.btn{
+   border: none;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: #66BFBF;
+   padding: 10px 20px;
+   cursor: pointer;
+   width: 100px;
+   border-radius: 8px;
+}
+.btn:hover{
+   background-color:green;
+   text-decoration: none;
+}
+.social-icon{
+   text-decoration: none;
+   width: 2%;
+   border-radius: 100%;
+}
+.social-icon:hover{
+   background-color: #66FBFB;
+}
+.copy-right{
+   color: white;
+}
+.copy-right:hover{
+color: yellow;
+}
